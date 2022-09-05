@@ -11,21 +11,21 @@ let handler  = async (m, { conn, command, args, usedPrefix, DevMode }) => {
 ------- ${nameown} -------
 
 📮 *Note:*
-• Owner tidak menerima save contact
-• Owner berhak blockir tanpa alasan
+• Owner Sagiri Botz tidak menerima save contact
+• Owner Sagiri Botz berhak blockir tanpa alasan
 • Berbicaralah yang sopan & tidak spam
-• Owner Hanya merespon yang berkaitan dengan BOT
+• Owner Sagiri Botz Hanya merespon yang berkaitan dengan BOT
 • No Telp`
 
 //------------ BIO
 let ppown = await conn.profilePictureUrl(nomorown + '@s.whatsapp.net', 'image').catch(_ => hwaifu[1]) 
 let teksbio = `${htki} *BIODATA* ${htka}
-*ɴᴀᴍᴇ:* GopalAsu 
-*ᴀɢᴇ:* 19ᵗʰ
+*ɴᴀᴍᴇ:* Kanna Chan
+*ᴀɢᴇ:* 15
 *sᴛᴀᴛᴜs:* single 
 
-*ʙɪʀᴛʜᴅᴀʏ:* 27 Jan 2003
-*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Timur, Surabaya
+*ʙɪʀᴛʜᴅᴀʏ:* 10 April 2008
+*ᴀᴅᴅʀᴇss:* Indonesia, Jawa Tenggah, Tegal
 
 📷 *Instagram:* ${sig}
 🐈 *Github:* ${sgh}
@@ -37,8 +37,8 @@ const sections = [
    {
 	title: `${htjava} OWNER –––––––––·•`,
 	rows: [
-	    {title: "📱 • Nomor", rowId: ".owner nomor"},
-	{title: "🎨 • Biodata", rowId: ".owner bio"},
+	    {title: "📱 • Nomor Kanna ", rowId: ".owner nomor"},
+	{title: "🎨 • Biodata Kanna ", rowId: ".owner bio"},
 	{title: "🌎 • Script", rowId: ".sc"},
 	]
     },{
