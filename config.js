@@ -11,6 +11,7 @@
 // • The.Sad.Boy01
 // • Rasel comel
 // • Xtreshe (Beban)
+// • SabilOfc
 // • Dll
 
 //[!] Jangan Dihapus, mending ditambahin 
@@ -44,33 +45,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // Wajib diisi ya kak!, kalo ga punya biarin aja, biar ada creditsnya :v
-global.sig = 'https://www.instagram.com/Supportrezz'
-global.sgh = 'https://github.com/Hmzzfz'
-global.sgc = 'https://chat.whatsapp.com/L5X4iarh2CyBrFTMYxfD3o'
+global.sig = 'https://www.instagram.com/kannabotz'
+global.sgh = 'https://github.com/XyzenzKannaV1'
+global.sgc = 'https://chat.whatsapp.com/KNuPWvGn3AG0srT3vdr0Ea'
 global.sdc = " "
 global.snh = 'https://PentaPage.my.id'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085890531178'
+global.pdana = '083866366437'
 global.povo = '_'
-global.pgopay = '085890531178'
-global.ppulsa = '085890531178'
-global.ppulsa2 = '085893481599'
+global.pgopay = '083112831554'
+global.ppulsa = '088980870067'
+global.ppulsa2 = '089980870067'
 global.psaweria = '_'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '14708122938'
-global.nomorown = '6285890531178'
-global.namebot = 'HAMZ BOTZ'
-global.nameown = 'owner hamz'
+global.nomorbot = '6288980870067'
+global.nomorown = '6283866366437'
+global.namebot = 'Sagiri Botz'
+global.nameown = 'Kanna Chan'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['14708122938'],
-  ['6285890531178'],
-  ['14708122938'],
-  ['6289617554095', 'owner hamz', true]
+  ['6283866366437'],
+  ['6283866366437'],
+  ['6283866366437'],
+  ['6283866366437', 'Kanna Chan', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,12 +116,12 @@ global.APIKeys = { // APIKey Here
 // Kata APIKEY itu isi dengan apikey lu sendiri, dengan beli ke website itu
 
 /*============== WATERMARK ==============*/
-global.wm = '                「 HAMZ BOTZ 」' //Main Watermark
-global.wm2 = 'HAMZ BOTZ'
-global.wm3 = '⛧HAMZ BOTZ'
+global.wm = '                「 Sagiri Botz 」' //Main Watermark
+global.wm2 = 'Sagiri Botz'
+global.wm3 = '⛧Sagiri Botz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '⛧┊ HAMZ BOTZ'
+global.titlebot = '⛧┊ Sagiri Botz'
 global.author = global.wm
 
 
@@ -174,7 +175,7 @@ global.hsquere = ['⛶','❏','⫹⫺']
 
 /*============== STICKER WM ==============*/
 global.stickpack = '_'
-global.stickauth = `HAMZ BOTZ`
+global.stickauth = `Sagiri Botz`
 
 global.multiplier = 38 // The higher, The harder levelup
 
